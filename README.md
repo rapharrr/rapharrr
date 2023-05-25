@@ -11,7 +11,8 @@
        <br>Futuramente terá mais projetos postados aqui !!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rapharr">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">  
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"><br>
+         <a href = "mailto:rapha18023@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </a>
 </p>
 
